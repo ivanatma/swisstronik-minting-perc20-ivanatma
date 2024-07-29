@@ -75,8 +75,8 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [rikindrn](https://github.com/rikindrn)
-twitter : @rikindrn
-telegram : @rikindrn
+github : (https://github.com/ivanatma)
+twitter : @ivanatma
+telegram : @ivanatma
 
 0xd8D8fd6c2F461999673E149C3229871fdddD3d35
